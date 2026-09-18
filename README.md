@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Full-Stack+Python+Developer;Django+Backend+Expert;React+Frontend+Specialist;UI%2FUX+Design+with+Figma;Problem+Solver+%26+Tech+Enthusiast" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alibekshomurotov&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/alibekshomurotov?label=Network&style=for-the-badge&color=00f7ff&logo=github" />
     <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" />
   </p>
 </div>
