@@ -19,7 +19,7 @@
 <p align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350" style="border-radius: 20px; border: 3px solid #00F7FF; margin-left: 30px; margin-bottom: 20px;"/>
 
-Assalomu alaykum! Men **Shomurotov Alibek**, yuqori darajadagi mantiq va kreativ dizaynni uyg'unlashtirgan dasturchiman. Mening maqsadim — foydalanuvchilar uchun sodda va biznes uchun samarali raqamli yechimlar yaratish.
+Assalomu alaykum! Men **Karimov Umirbek**, yuqori darajadagi mantiq va kreativ dizaynni uyg'unlashtirgan dasturchiman. Mening maqsadim — foydalanuvchilar uchun sodda va biznes uchun samarali raqamli yechimlar yaratish.
 
 - 👨‍💻 **Backend:** Python va Django yordamida xavfsiz va tezkor tizimlar qurish.
 - 🎨 **Frontend:** React va Tailwind CSS orqali zamonaviy interfeyslar yaratish.
